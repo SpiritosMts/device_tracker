@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447425672223",
+    "project_id": "projectpfe-8c41c",
+    "storage_bucket": "projectpfe-8c41c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447425672223:android:bc62a2ba080e92a008512a",
+        "android_client_info": {
+          "package_name": "com.example.device_track"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXo906J4fkVCScSTf3FKIB7tUtRPc8qaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
